@@ -1,0 +1,82 @@
+{
+  "counts": [
+ 	{
+		"id": 1,
+		"Total_Doses_Administered": 679,
+		"Total_Doses_Distributed": 679,
+		"DataLastUpdated": 1607925600000
+	},
+ 	{
+		"id": 2,
+		"Total_Doses_Administered": 6090,
+		"Total_Doses_Distributed": 6769,
+		"DataLastUpdated": 1608012000000
+ 	},
+ 	{
+		"id": 3,
+		"Total_Doses_Administered": 27823,
+		"Total_Doses_Distributed": 34592,
+		"DataLastUpdated": 1608098400000
+ 	},
+ 	{
+		"id": 4,
+		"Total_Doses_Administered": 67963,
+		"Total_Doses_Distributed": 102555,
+		"DataLastUpdated": 1608184800000
+ 	},
+ 	{
+		"id": 5,
+		"Total_Doses_Administered": 112807,
+		"Total_Doses_Distributed": 215362,
+		"DataLastUpdated": 1608271200000
+ 	},
+ 	{
+		"id": 6,
+		"Total_Doses_Administered": 272001,
+		"Total_Doses_Distributed": 487363,
+		"DataLastUpdated": 1608357600000
+ 	},
+ 	{
+		"id": 7,
+		"Total_Doses_Administered": 556208,
+		"Total_Doses_Distributed": 1043571,
+		"DataLastUpdated": 1608444000000
+ 	},
+ 	{
+		"id": 8,
+		"Total_Doses_Administered": 614117,
+		"Total_Doses_Distributed": 4624325,
+		"DataLastUpdated": 1608530400000
+ 	},
+ 	{
+		"id": 9,
+		"Total_Doses_Administered": 1008025,
+		"Total_Doses_Distributed": 9465725,
+		"DataLastUpdated": 1608703200000
+ 	},
+ 	{
+		"id": 10,
+		"Total_Doses_Administered": 1944585,
+		"Total_Doses_Distributed": 9465725,
+		"DataLastUpdated": 1608962400000
+ 	},
+ 	{
+		"id": 11,
+		"Total_Doses_Administered": 2127143,
+		"Total_Doses_Distributed": 11445175,
+		"DataLastUpdated": 1609135200000
+ 	},
+ 	{
+		"id": 12,
+		"Total_Doses_Administered": 2589125,
+		"Total_Doses_Distributed": 12409050,
+		"DataLastUpdated": 1609308000000
+ 	},
+ 	{
+		"id": 13,
+		"Total_Doses_Administered": 2794588,
+		"Total_Doses_Distributed": 12409050,
+		"DataLastUpdated": 1609480800000
+ 	},
+ ]
+}
