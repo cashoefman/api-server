@@ -3,7 +3,7 @@
     {
       "id": 1,
       "Total_Doses_Administered": 679,
-	  "Total_Doses_Distributed": 679,
+      "Total_Doses_Distributed": 679,
       "DataLastUpdated": 1607925600
     },
     {
@@ -15,86 +15,86 @@
     {
       "id": 3,
       "Total_Doses_Administered": 27823,
-	  "Total_Doses_Distributed": 34592,
-	  "DataLastUpdated": 1608098400
+      "Total_Doses_Distributed": 34592,
+      "DataLastUpdated": 1608098400
     },
     {
-	  "id": 4,
-	  "Total_Doses_Administered": 67963,
-	  "Total_Doses_Distributed": 102555,
-	  "DataLastUpdated": 1608184800
+      "id": 4,
+      "Total_Doses_Administered": 67963,
+      "Total_Doses_Distributed": 102555,
+      "DataLastUpdated": 1608184800
     },
     {
-	  "id": 5,
-	  "Total_Doses_Administered": 112807,
-	  "Total_Doses_Distributed": 215362,
-	  "DataLastUpdated": 1608271200
+      "id": 5,
+      "Total_Doses_Administered": 112807,
+      "Total_Doses_Distributed": 215362,
+      "DataLastUpdated": 1608271200
     },
     {
-	  "id": 6,
-	  "Total_Doses_Administered": 272001,
-	  "Total_Doses_Distributed": 487363,
-	  "DataLastUpdated": 1608357600
+      "id": 6,
+      "Total_Doses_Administered": 272001,
+      "Total_Doses_Distributed": 487363,
+      "DataLastUpdated": 1608357600
     },
     {
-	  "id": 7,
-	  "Total_Doses_Administered": 556208,
-	  "Total_Doses_Distributed": 1043571,
-	  "DataLastUpdated": 1608444000
+      "id": 7,
+      "Total_Doses_Administered": 556208,
+      "Total_Doses_Distributed": 1043571,
+      "DataLastUpdated": 1608444000
     },
     {
-	  "id": 8,
-	  "Total_Doses_Administered": 614117,
-	  "Total_Doses_Distributed": 4624325,
-	  "DataLastUpdated": 1608530400
+      "id": 8,
+      "Total_Doses_Administered": 614117,
+      "Total_Doses_Distributed": 4624325,
+      "DataLastUpdated": 1608530400
     },
     {
-	  "id": 9,
-	  "Total_Doses_Administered": 1008025,
-	  "Total_Doses_Distributed": 9465725,
-	  "DataLastUpdated": 1608703200
+      "id": 9,
+      "Total_Doses_Administered": 1008025,
+      "Total_Doses_Distributed": 9465725,
+      "DataLastUpdated": 1608703200
     },
     {
-	  "id": 10,
-	  "Total_Doses_Administered": 1944585,
-	  "Total_Doses_Distributed": 9465725,
-	  "DataLastUpdated": 1608962400
+      "id": 10,
+      "Total_Doses_Administered": 1944585,
+      "Total_Doses_Distributed": 9465725,
+      "DataLastUpdated": 1608962400
     },
     {
-	  "id": 11,
-	  "Total_Doses_Administered": 2127143,
-	  "Total_Doses_Distributed": 11445175,
-	  "DataLastUpdated": 1609135200
+      "id": 11,
+      "Total_Doses_Administered": 2127143,
+      "Total_Doses_Distributed": 11445175,
+      "DataLastUpdated": 1609135200
     },
     {
-	  "id": 12,
-	  "Total_Doses_Administered": 2589125,
-	  "Total_Doses_Distributed": 12409050,
-	  "DataLastUpdated": 1609308000
+      "id": 12,
+      "Total_Doses_Administered": 2589125,
+      "Total_Doses_Distributed": 12409050,
+      "DataLastUpdated": 1609308000
     },
     {
-	  "id": 13,
-	  "Total_Doses_Administered": 2794588,
-	  "Total_Doses_Distributed": 12409050,
-	  "DataLastUpdated": 1609480800
+      "id": 13,
+      "Total_Doses_Administered": 2794588,
+      "Total_Doses_Distributed": 12409050,
+      "DataLastUpdated": 1609480800
     },
     {
-	  "id": 14,
-	  "Total_Doses_Administered": 4225756,
-	  "Total_Doses_Distributed": 13071925,
-	  "DataLastUpdated": 1609606800
+      "id": 14,
+      "Total_Doses_Administered": 4225756,
+      "Total_Doses_Distributed": 13071925,
+      "DataLastUpdated": 1609606800
     },
-	{
-	  "id": 15,
-	  "Total_Doses_Administered": 4563260,
-	  "Total_Doses_Distributed": 15418500,
-	  "DataLastUpdated": 1609768800
+    {
+      "id": 15,
+      "Total_Doses_Administered": 4563260,
+      "Total_Doses_Distributed": 15418500,
+      "DataLastUpdated": 1609768800
     },
-	{
-	  "id": 16,
-	  "Total_Doses_Administered": 4836469,
-	  "Total_Doses_Distributed": 17020575,
-	  "DataLastUpdated": 1609855200
+    {
+      "id": 16,
+      "Total_Doses_Administered": 4836469,
+      "Total_Doses_Distributed": 17020575,
+      "DataLastUpdated": 1609855200
     }
   ]
 }
