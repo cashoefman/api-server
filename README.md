@@ -1,3 +1,3 @@
 # Demo API Server
 
-https://my-json-server.typicode.com/<yourgitname>/<repo>
+https://my-json-server.typicode.com/cashoefman/api-server
