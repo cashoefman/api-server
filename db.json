@@ -113,6 +113,12 @@
       "Total_Doses_Administered": 6688231,
       "Total_Doses_Distributed": 22137350,
       "DataLastUpdated": 1610114400
+    },
+    {
+      "id": 20,
+      "Total_Doses_Administered": 9327138,
+      "Total_Doses_Distributed": 27696150,
+      "DataLastUpdated": 1610373600
     }
   ]
 }
